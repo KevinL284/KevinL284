@@ -16,7 +16,6 @@ Welcome to my github profile!
 <div>
   <a href="https://github.com/MrKevin284">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrKevin284&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <a href="https://github.com/MrKevin284">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKevin284&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
@@ -49,5 +48,10 @@ Welcome to my github profile!
 
 </div>
 
+<div>
+  <img align="center" height="300em" src="https://media.tenor.com/Q5xdMAdZuw4AAAAd/rick-roll.gif"/>
+  <img align="center" height="300em" src="https://camo.githubusercontent.com/fbf5845a021731a1574b9cf2ff887517e4ca8e254c1cf6f61cc851c655e882bc/68747470733a2f2f692e696d6775722e636f6d2f5a3069596434302e676966"/>
+  <img align="center" height="300em" src="https://camo.githubusercontent.com/cab6fe7bb1021d845cb67eae7c618dd09ca6ec53f028a5349cf3ceae47d6f889/687474703a2f2f692e696d6775722e636f6d2f6c6e636270426d2e676966"/>
+</div>
 
 <img width=100% src="https://camo.githubusercontent.com/478c2e71786ef0b7594563a540d5469f19c2f6a7989567e7277addf3e80031e6/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d666f6f746572"/>
