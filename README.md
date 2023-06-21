@@ -5,7 +5,7 @@ Welcome to my github profile!
 <div>
   <img align="center" height="300em" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif"/>
 </div>
-<h2> About-me </h2><br>
+<h2> About-me: </h2><br>
 <li> 《👨‍💻》Meu nome é Kevin, sou um louco por tecnologia e adoro me desafiar; </li><br>
 <li> 《👨‍🎓》Estou estudando programação e me desenvolvendo para atingir o melhor nível que um profissional da área deve ter; </li><br>
 <li> 《💻》Atualmente, estou estudando php, JavaScript e SQL; </li><br>
