@@ -49,7 +49,6 @@ Welcome to my github profile!
 </div>
 
 <div>
-  <img align="center" height="300em" src="https://media.tenor.com/Q5xdMAdZuw4AAAAd/rick-roll.gif"/>
   <img align="center" height="300em" src="https://camo.githubusercontent.com/fbf5845a021731a1574b9cf2ff887517e4ca8e254c1cf6f61cc851c655e882bc/68747470733a2f2f692e696d6775722e636f6d2f5a3069596434302e676966"/>
   <img align="center" height="300em" src="https://camo.githubusercontent.com/cab6fe7bb1021d845cb67eae7c618dd09ca6ec53f028a5349cf3ceae47d6f889/687474703a2f2f692e696d6775722e636f6d2f6c6e636270426d2e676966"/>
 </div>
