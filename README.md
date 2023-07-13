@@ -10,13 +10,13 @@ Welcome to my github profile!
 <h2> About-me: </h2><br>
 <li> 《👨‍💻》Meu nome é Kevin, sou um louco por tecnologia e adoro me desafiar; </li><br>
 <li> 《👨‍🎓》Estou estudando programação e me desenvolvendo para atingir o melhor nível que um profissional da área deve ter; </li><br>
-<li> 《💻》Atualmente, estou estudando php, JavaScript e SQL; </li><br>
+<li> 《💻》Atualmente, estou estudando php, JavaScript, Python e SQL; </li><br>
 <li> 《🖖》Nos meus descansos, gosto de jogar, escutar ou tocar música e assistir filmes geeks. "Já devem ter percebido que gosto de STAR WARS né?" rsrsrs </li><br>
 
 <div>
   <a href="https://github.com/MrKevin284">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrKevin284&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKevin284&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKevin284&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
 
