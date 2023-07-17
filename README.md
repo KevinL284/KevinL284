@@ -11,7 +11,7 @@ Welcome to my github profile!
 <li> 《👨‍💻》Meu nome é Kevin e amo a tecnologia. Adoro me desafiar e buscar novos conhecimentos na área de desenvolvimento; </li><br>
 <li> 《👨‍🎓》Estou cursando o 4° período de Ciências da Computação na FPB e me desenvolvendo para me tornar um desenvolvedor back-end qualificado; </li><br>
 <li> 《💻》Atualmente, estou aprimorando minhas habilidades em linguagens de programação como Python, php, JavaScript e SQL, bem como em gerenciamento de banco de dados e controle de versão com Git. Meu objetivo é atingir o melhor nível que um profissional da área deve possuir; </li><br>
-<li> 《🖖》Nos meus descansos, gosto de jogar, escutar ou tocar música e assistir filmes geeks. "Já devem ter percebido que gosto de STAR WARS né?" rsrsrs </li><br>
+<li> 《🖖》Nos meus momentos de descanso, gosto de jogar, escutar ou tocar música e assistir filmes geeks. Sou um grande fã de STAR WARS e adoro tudo relacionado ao universo geek. </li><br>
 
 <div>
   <a href="https://github.com/MrKevin284">
