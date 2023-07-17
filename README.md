@@ -9,7 +9,7 @@ Welcome to my github profile!
 </div>
 <h2> About-me: </h2><br>
 <li> 《👨‍💻》Meu nome é Kevin, sou um louco por tecnologia e adoro me desafiar; </li><br>
-<li> 《👨‍🎓》Estou estudando programação e me desenvolvendo para atingir o melhor nível que um profissional da área deve ter; </li><br>
+<li> 《👨‍🎓》Estou Cursando o 4° Período de Ciências da computação na FPB e me desenvolvendo para atingir o melhor nível que um profissional da área deve possuir; </li><br>
 <li> 《💻》Atualmente, estou estudando php, JavaScript, Python e SQL; </li><br>
 <li> 《🖖》Nos meus descansos, gosto de jogar, escutar ou tocar música e assistir filmes geeks. "Já devem ter percebido que gosto de STAR WARS né?" rsrsrs </li><br>
 
@@ -22,16 +22,19 @@ Welcome to my github profile!
 
 <h1> </h1>
 <div style="display: inline_block"><br>
-  <img align="center" alt="KL-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="KL-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="KL-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="KL-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="KL-Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="KL-Sql" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="KL-Sql" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="KL-Sql" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="KL-php" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="KL-Figma" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   <img align="center" alt="KL-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
-  <img align="center" alt="KL-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="KL-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="KL-Ts" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="KL-Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="KL-VSCode" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  
+  <img align="center" alt="KL-Git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
 </div>
 <h1> </h1>
 <div>
@@ -44,7 +47,6 @@ Welcome to my github profile!
  <a href="https://www.instagram.com/kevin.l284/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
  </a>
   
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
