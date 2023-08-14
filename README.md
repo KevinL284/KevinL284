@@ -8,9 +8,9 @@ Welcome to my github profile!
   <img align="center" height="300em" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/212168da-ee3e-4487-b9f2-28d245ecb3d6/dfc40yr-f1a3f82d-5f80-48c8-9246-f9c16f3ba3a2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIxMjE2OGRhLWVlM2UtNDQ4Ny1iOWYyLTI4ZDI0NWVjYjNkNlwvZGZjNDB5ci1mMWEzZjgyZC01ZjgwLTQ4YzgtOTI0Ni1mOWMxNmYzYmEzYTIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6geODoGCl2sPb-slg3RZG7hXWVa6wL02wdQdIokod0Y"/>
 </div>
 <h2> About-me: </h2><br>
-<li> 《👨‍💻》Meu nome é Kevin e amo a tecnologia. Adoro me desafiar e buscar novos conhecimentos na área de desenvolvimento; </li><br>
+<li> 《👨‍💻》Meu nome é Kevin e amo a tecnologia. Por isso, adoro me desafiar e buscar novos conhecimentos na área de desenvolvimento; </li><br>
 <li> 《👨‍🎓》Estou cursando o 4° período de Ciências da Computação na FPB e me desenvolvendo para me tornar um desenvolvedor back-end qualificado; </li><br>
-<li> 《💻》Atualmente, estou aprimorando minhas habilidades em linguagens de programação como Python, php, JavaScript e SQL, bem como em gerenciamento de banco de dados e controle de versão com Git. Meu objetivo é atingir o melhor nível que um profissional da área deve possuir; </li><br>
+<li> 《💻》Atualmente, estou aprimorando minhas habilidades em linguagens de programação como Python, php, JavaScript e SQL, bem como em gerenciamento de banco de dados e controle de versão com Git. Meu objetivo é atingir o melhor nível que um profissional da área de desenvolvimento ou ciência de dados deve possuir; </li><br>
 <li> 《🖖》Nos meus momentos de descanso, gosto de jogar, escutar ou tocar música e assistir filmes geeks. Sou um grande fã de STAR WARS e adoro tudo relacionado ao universo geek. </li><br>
 
 <div>
