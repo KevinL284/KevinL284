@@ -4,7 +4,9 @@
 
 
 <div>
-  <img align="center" height="300em" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/212168da-ee3e-4487-b9f2-28d245ecb3d6/dfc40yr-f1a3f82d-5f80-48c8-9246-f9c16f3ba3a2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIxMjE2OGRhLWVlM2UtNDQ4Ny1iOWYyLTI4ZDI0NWVjYjNkNlwvZGZjNDB5ci1mMWEzZjgyZC01ZjgwLTQ4YzgtOTI0Ni1mOWMxNmYzYmEzYTIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6geODoGCl2sPb-slg3RZG7hXWVa6wL02wdQdIokod0Y"/>
+  <img height="300em" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/212168da-ee3e-4487-b9f2-28d245ecb3d6/dfc40yr-f1a3f82d-5f80-48c8-9246-f9c16f3ba3a2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIxMjE2OGRhLWVlM2UtNDQ4Ny1iOWYyLTI4ZDI0NWVjYjNkNlwvZGZjNDB5ci1mMWEzZjgyZC01ZjgwLTQ4YzgtOTI0Ni1mOWMxNmYzYmEzYTIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6geODoGCl2sPb-slg3RZG7hXWVa6wL02wdQdIokod0Y"/>
+
+ <img height="300em" width="250em" src="https://art.pixilart.com/361c42bb292ad87.gif"/> 
 </div>
 <h2> About-me: </h2><br>
 <li> 《👨‍💻》Meu nome é Kevin e amo a tecnologia. Por isso, adoro me desafiar e buscar novos conhecimentos na área de desenvolvimento; </li><br>
