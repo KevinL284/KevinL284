@@ -61,7 +61,9 @@
 <a href="https://discord.gg/DmcVcNDKJK" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
 </a>
-   
+<a href="https://open.spotify.com/user/31ybs2bx2cf5u62yrehuld6ih5ka" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
+</a>   
 </p>
 
 
