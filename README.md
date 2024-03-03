@@ -1,5 +1,3 @@
-<img width=100% src="https://camo.githubusercontent.com/06a766421e8a1044c5a1387aab134e4589e9ea14a5a53b98fc9099f6710940f3/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d464646464646266865696768743d3132302673656374696f6e3d686561646572"/>
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=56BCDA&size=32&center=true&vCenter=true&width=1000&lines=Hello+there+👋!;+Im+Kevin!;Welcome+to+my+github+profile!)](https://git.io/typing-svg)
 
@@ -42,9 +40,6 @@
   <img alt="KL-Figma" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   <img alt="KL-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
   <img alt="KL-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="KL-Ts" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="KL-Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img alt="KL-VSCode" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img alt="KL-Git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
 
@@ -58,15 +53,6 @@
  </a>
  <a href="https://www.instagram.com/kevin.l284/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
  </a>
-<a href="https://discord.gg/DmcVcNDKJK" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-</a>
-<a href="https://open.spotify.com/user/31ybs2bx2cf5u62yrehuld6ih5ka" target="_blank">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
-</a>   
 </p>
 
 
-
-
-<img width=100% src="https://camo.githubusercontent.com/387a5ac71a7a7b6bd31451d030bc52fa66f60d8103252123f375b45bf9dd209c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d464646464646266865696768743d3132302673656374696f6e3d666f6f746572"/>
