@@ -1,48 +1,61 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=56BCDA&size=32&center=true&vCenter=true&width=1000&lines=Hello+there+👋!;+Im+Kevin!;Welcome+to+my+github+profile!)](https://git.io/typing-svg)
-
+  <h1 align="center"> Kevin Lucas D. N. Souza</h1>
 
 
-<h2> About-me: </h2><br>
-<li> 《👨‍💻》Meu nome é Kevin e amo a tecnologia. Por isso, adoro me desafiar e buscar novos conhecimentos na área de desenvolvimento; </li><br>
-<li> 《👨‍🎓》Estou cursando Ciências da Computação na FPB 2022-2025 e me desenvolvendo para me tornar um desenvolvedor back-end qualificado; </li><br>
-<li> 《💻》Atualmente, estou aprimorando minhas habilidades em linguagens de programação como Python, php, JavaScript e SQL, bem como em gerenciamento de banco de dados e controle de versão com Git. Meu objetivo é atingir o melhor nível que um profissional da área de desenvolvimento ou ciência de dados deve possuir; </li><br>
-<li> 《🖖》Nos meus momentos de descanso, gosto de jogar, escutar ou tocar música e assistir filmes geeks. Sou um grande fã de STAR WARS e adoro tudo relacionado ao universo geek. </li><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=56BCDA&size=32&center=true&vCenter=true&width=1000&lines=Hello+there!;I'm+Kevin!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
-<h1> </h1>
-<div>
-  <a href="https://github.com/KevinL284">
+## Sobre Mim
+
+Sou estudante de Ciências da Computação na FPB-JP, com previsão de conclusão em 2025. Focado em desenvolvimento de software com ênfase em Back-End, manipulação de dados, automação e aprendizado de máquina. Busco criar soluções escaláveis, eficientes e inovadoras.
+
+## Competências Técnicas
+
+- **Desenvolvimento Back-End:** PHP, Python, C#, Django, Laravel, .NET, arquiteturas MVC e MVT.
+- **Automação com Python:** Rastreadores web (Selenium), Web Scraping, Automação de tarefas, ETL (Extração, Transformação e Carga).
+- **Bancos de Dados:** MySQL, PostgreSQL, MongoDB, NoSQL, modelagem de dados, SQL.
+- **Desenvolvimento de Pipelines de Dados:** Integração de dados, Processamento em lote, Big Data.
+- **Aprendizado de Máquina:** Machine Learning, Modelagem preditiva, Scikit-Learn, TensorFlow, Análise de dados.
+- **Integração de Sistemas:** APIs, Microserviços, Arquitetura de sistemas, DevOps, Automação de processos.
+- **Metodologias Ágeis:** Scrum, Kanban, Lean.
+
+## Projetos Recentes
+
+- **Rastreador de Vagas:** Web Scraper para vagas em tempo real (Python, Selenium).
+- **Predição DataFrame Spotify:** Modelos para análise de tendências (Machine Learning).
+- **Calculadora de Preços:** Ferramenta de investimentos e margem de lucro (PHP, JS, HTML, CSS).
+- **Gestor de Tarefas:** Ferramenta para gestão de tarefas empresariais (Django, Python, Tailwind, MySQL).
+
+## Tecnologias
+
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=KevinL284&count_private=true&show_icons=true&theme=react" style="margin-right: 20px;"/>
-  <img width="400" height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinL284&layout=compact&langs_count=7&theme=react"/>
-</p>
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{KevinL284}/count.svg" /></p> 
-  </div>
-
-
-<h1> </h1>
-<p align="center">
-  <img alt="KL-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="KL-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="KL-Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img alt="KL-Sql" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img alt="KL-php" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img alt="KL-Figma" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-  <img alt="KL-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
-  <img alt="KL-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="KL-Git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="GitHub" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img alt="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="PHP" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img alt="C#" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+  <img alt="MySQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img alt="MongoDB" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <img alt="HTML" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img alt="CSS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 </p>
 
-<h1> </h1>
+## Contato
+
 <p align="center">
  <a href="mailto:kevin.lucas284sz@gmail.com" target="_blank">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  </a>
  <a href="https://www.linkedin.com/in/kevin-souza-471791236/" target="_blank">
-   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
- <a href="https://www.instagram.com/kevin.l284/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+ <a href="https://github.com/KevinL284" target="_blank">
+   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
  </a>
 </p>
 
+## Estatísticas GitHub
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinL284&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinL284&layout=compact&langs_count=7&theme=react"/>
+</div>
