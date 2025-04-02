@@ -28,7 +28,6 @@ Sou estudante de Ciências da Computação na FPB-JP, com previsão de conclusã
 
 <p align="center">
   <img alt="Git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img alt="GitHub" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   <img alt="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="PHP" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
@@ -47,9 +46,6 @@ Sou estudante de Ciências da Computação na FPB-JP, com previsão de conclusã
  </a>
  <a href="https://www.linkedin.com/in/kevin-souza-471791236/" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
- </a>
- <a href="https://github.com/KevinL284" target="_blank">
-   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
  </a>
 </p>
 
