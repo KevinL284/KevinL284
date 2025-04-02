@@ -38,6 +38,8 @@ Sou estudante de Ciências da Computação na FPB-JP, com previsão de conclusã
   <img alt="CSS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=56BCDA&size=15&center=true&vCenter=true&width=1000&lines=Trabalhe+Comigo!;Informações+Abaixo:;)](https://git.io/typing-svg)
+
 ## Contato
 
 <p align="center">
@@ -47,7 +49,16 @@ Sou estudante de Ciências da Computação na FPB-JP, com previsão de conclusã
  <a href="https://www.linkedin.com/in/kevin-souza-471791236/" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
+  <a href="https://wa.me/55999380246" target="_blank">
+   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+ </a>
+ <a href="https://kevinl284.github.io/portfolio/" target="_blank">
+   <img src="https://img.shields.io/badge/Portfólio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white">
+ </a>
 </p>
+
+- **Quer saber mais sobre minhas habilidades e experiências?** <br>
+[![Baixar Currículo](https://img.shields.io/badge/Currículo-Baixar-brightgreen)](https://raw.githubusercontent.com/KevinL284/portfolio/main/KevinSouzaCV.pdf)
 
 ## Estatísticas GitHub
 
