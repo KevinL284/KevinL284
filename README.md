@@ -1,11 +1,23 @@
-  <h1 align="center"> Kevin Lucas D. N. Souza</h1>
-
+<h1 align="center"> Kevin Lucas D. N. Souza</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=56BCDA&size=32&center=true&vCenter=true&width=1000&lines=Hello+there!;I'm+Kevin!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+
+---
 
 ## Sobre Mim
 
 Sou estudante de Ciências da Computação na FPB-JP, com previsão de conclusão em 2025. Focado em desenvolvimento de software com ênfase em Back-End, manipulação de dados, automação e aprendizado de máquina. Busco criar soluções escaláveis, eficientes e inovadoras.
+
+---
+
+## Projetos Recentes
+
+- **Rastreador de Vagas:** Web Scraper para vagas em tempo real (Python, Selenium).
+- **Predição DataFrame Spotify:** Modelos para análise de tendências (Machine Learning).
+- **Calculadora de Preços:** Ferramenta de investimentos e margem de lucro (PHP, JS, HTML, CSS).
+- **Gestor de Tarefas:** Ferramenta para gestão de tarefas empresariais (Django, Python, Tailwind, MySQL).
+
+---
 
 ## Competências Técnicas
 
@@ -17,12 +29,7 @@ Sou estudante de Ciências da Computação na FPB-JP, com previsão de conclusã
 - **Integração de Sistemas:** APIs, Microserviços, Arquitetura de sistemas, DevOps, Automação de processos.
 - **Metodologias Ágeis:** Scrum, Kanban, Lean.
 
-## Projetos Recentes
-
-- **Rastreador de Vagas:** Web Scraper para vagas em tempo real (Python, Selenium).
-- **Predição DataFrame Spotify:** Modelos para análise de tendências (Machine Learning).
-- **Calculadora de Preços:** Ferramenta de investimentos e margem de lucro (PHP, JS, HTML, CSS).
-- **Gestor de Tarefas:** Ferramenta para gestão de tarefas empresariais (Django, Python, Tailwind, MySQL).
+---
 
 ## Tecnologias
 
@@ -36,9 +43,29 @@ Sou estudante de Ciências da Computação na FPB-JP, com previsão de conclusã
   <img alt="MongoDB" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
   <img alt="HTML" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img alt="CSS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img alt="PostgreSQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img alt="Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img alt="Django" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+  <img alt="Laravel" height="50" src="https://laravel.com/img/logomark.min.svg"/>
+
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=56BCDA&size=15&center=true&vCenter=true&width=1000&lines=Trabalhe+Comigo!;Informações+Abaixo:;)](https://git.io/typing-svg)
+---
+
+## Ferramentas
+
+<p align="center">
+  <img alt="VS Code" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img alt="Visual Studio" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
+  <img alt="Rider" height="50" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png"/>
+  <img alt="Notepad++" height="50" src="https://notepad-plus-plus.org/images/logo.svg"/>
+  <img alt="Eclipse" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"/>
+  <img alt="PyCharm" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
+  <img alt="Figma" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  <img alt="GitBash" height="50" src="https://gitforwindows.org/img/gwindows_logo.png"/>
+</p>
+
+---
 
 ## Contato
 
@@ -57,8 +84,9 @@ Sou estudante de Ciências da Computação na FPB-JP, com previsão de conclusã
  </a>
 </p>
 
-- **Quer saber mais sobre minhas habilidades e experiências?** <br>
-[![Baixar Currículo](https://img.shields.io/badge/Currículo-Baixar-brightgreen)](https://raw.githubusercontent.com/KevinL284/portfolio/main/KevinSouzaCV.pdf)
+[![Baixar Currículo](https://img.shields.io/badge/Currículo-Baixar-56BCDA?style=for-the-badge)](https://raw.githubusercontent.com/KevinL284/portfolio/main/KevinSouzaCV.pdf)
+
+---
 
 ## Estatísticas GitHub
 
@@ -66,3 +94,11 @@ Sou estudante de Ciências da Computação na FPB-JP, com previsão de conclusã
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinL284&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinL284&layout=compact&langs_count=7&theme=react"/>
 </div>
+
+---
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=KevinL284&label=Profile%20views&color=56BCDA&style=flat" alt="KevinL284" />
+</p>
+
+
