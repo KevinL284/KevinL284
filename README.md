@@ -34,7 +34,6 @@ Sou estudante de Ciências da Computação na FPB-JP, com previsão de conclusã
 ## Tecnologias
 
 <p align="center">
-  <img alt="Git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img alt="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="PHP" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
@@ -84,7 +83,12 @@ Sou estudante de Ciências da Computação na FPB-JP, com previsão de conclusã
  </a>
 </p>
 
-[![Baixar Currículo](https://img.shields.io/badge/Currículo-Baixar-56BCDA?style=for-the-badge)](https://raw.githubusercontent.com/KevinL284/portfolio/main/KevinSouzaCV.pdf)
+  
+<p align="center">
+  <a href="https://raw.githubusercontent.com/KevinL284/portfolio/main/KevinSouzaCV.pdf">
+    <img src="https://img.shields.io/badge/Currículo-Baixar-56BCDA?style=for-the-badge" alt="Baixar Currículo"/>
+  </a>
+</p>
 
 ---
 
