@@ -1,6 +1,6 @@
 <h1 align="center"> Kevin Lucas D. N. Souza</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=56BCDA&size=32&center=true&vCenter=true&width=1000&lines=Hello+there!;I'm+Kevin!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=56BCDA&size=32&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+GitHub!;Sou+Kevin.;Conheça+mais+sobre+mim+abaixo:;Vamos+codar?;Estou+aberto+para+oportunidades.)](https://git.io/typing-svg)
 
 ---
 
