@@ -1,4 +1,4 @@
-<h1 align="center"> Kevin Lucas D. N. Souza</h1>
+<h1 align="center"> Kevin Souza</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=56BCDA&size=32&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+GitHub!;Sou+Kevin.;Conheça+mais+sobre+mim+abaixo:;Vamos+codar?;Estou+aberto+para+oportunidades.)](https://git.io/typing-svg)
 
@@ -13,7 +13,7 @@ Sou estudante de Ciências da Computação na FPB-JP, com previsão de conclusã
 ## Projetos Recentes
 
 - **Rastreador de Vagas:** Web Scraper para vagas em tempo real (Python, Selenium).
-- **Predição DataFrame Spotify:** Modelos para análise de tendências (Machine Learning).
+- **Predição DataFrame Spotify:** Modelos para análise de tendências (Machine Learning, Pandas, Python).
 - **Calculadora de Preços:** Ferramenta de investimentos e margem de lucro (PHP, JS, HTML, CSS).
 - **Gestor de Tarefas:** Ferramenta para gestão de tarefas empresariais (Django, Python, Tailwind, MySQL).
 
@@ -21,7 +21,7 @@ Sou estudante de Ciências da Computação na FPB-JP, com previsão de conclusã
 
 ## Competências Técnicas
 
-- **Desenvolvimento Back-End:** PHP, Python, C#, Django, Laravel, .NET, arquiteturas MVC e MVT.
+- **Desenvolvimento Back-End:** Python, C#, Django, .NET, arquiteturas MVC e MVT.
 - **Automação com Python:** Rastreadores web (Selenium), Web Scraping, Automação de tarefas, ETL (Extração, Transformação e Carga).
 - **Bancos de Dados:** MySQL, PostgreSQL, MongoDB, NoSQL, modelagem de dados, SQL.
 - **Desenvolvimento de Pipelines de Dados:** Integração de dados, Processamento em lote, Big Data.
@@ -34,18 +34,13 @@ Sou estudante de Ciências da Computação na FPB-JP, com previsão de conclusã
 ## Tecnologias
 
 <p align="center">
-  <img alt="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img alt="PHP" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img alt="C#" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img alt="Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img alt="MySQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img alt="MongoDB" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
   <img alt="PostgreSQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img alt="HTML" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img alt="CSS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img alt="Django" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
-  <img alt="Laravel" height="50" src="https://laravel.com/img/logomark.min.svg"/>
 
 </p>
 
@@ -60,7 +55,6 @@ Sou estudante de Ciências da Computação na FPB-JP, com previsão de conclusã
   <img alt="Notepad++" height="50" src="https://notepad-plus-plus.org/images/logo.svg"/>
   <img alt="Eclipse" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"/>
   <img alt="PyCharm" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
-  <img alt="Figma" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   <img alt="GitBash" height="50" src="https://gitforwindows.org/img/gwindows_logo.png"/>
 </p>
 
