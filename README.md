@@ -10,15 +10,6 @@ Sou estudante de Ciências da Computação na FPB-JP, com previsão de conclusã
 
 ---
 
-## Projetos Recentes
-
-- **Rastreador de Vagas:** Web Scraper para vagas em tempo real (Python, Selenium).
-- **Predição DataFrame Spotify:** Modelos para análise de tendências (Machine Learning, Pandas, Python).
-- **Calculadora de Preços:** Ferramenta de investimentos e margem de lucro (PHP, JS, HTML, CSS).
-- **Gestor de Tarefas:** Ferramenta para gestão de tarefas empresariais (Django, Python, Tailwind, MySQL).
-
----
-
 ## Competências Técnicas
 
 - **Desenvolvimento Back-End:** Python, C#, Django, .NET, arquiteturas MVC e MVT.
@@ -36,7 +27,6 @@ Sou estudante de Ciências da Computação na FPB-JP, com previsão de conclusã
 <p align="center">
   <img alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img alt="C#" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-  <img alt="Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img alt="MySQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img alt="MongoDB" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
   <img alt="PostgreSQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
