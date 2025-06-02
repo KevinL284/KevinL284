@@ -43,7 +43,6 @@ Sou estudante de Ciências da Computação na FPB-JP, com previsão de conclusã
   <img alt="Visual Studio" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
   <img alt="Rider" height="50" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png"/>
   <img alt="Notepad++" height="50" src="https://notepad-plus-plus.org/images/logo.svg"/>
-  <img alt="Eclipse" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"/>
   <img alt="PyCharm" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
   <img alt="GitBash" height="50" src="https://gitforwindows.org/img/gwindows_logo.png"/>
 </p>
