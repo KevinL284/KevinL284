@@ -61,7 +61,7 @@ Sou estudante de Ciências da Computação na FPB-JP, com previsão de conclusã
   <a href="https://wa.me/55999380246" target="_blank">
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
  </a>
- <a href="https://kevinl284.github.io/portfolio/" target="_blank">
+ <a href="https://soukevin.netlify.app/" target="_blank">
    <img src="https://img.shields.io/badge/Portfólio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white">
  </a>
 </p>
