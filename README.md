@@ -6,19 +6,19 @@
 
 ## Sobre Mim
 
-Sou estudante de Ciências da Computação na FPB-JP, com previsão de conclusão em 2025. Focado em desenvolvimento de software com ênfase em Back-End, manipulação de dados, automação e aprendizado de máquina. Busco criar soluções escaláveis, eficientes e inovadoras.
+Sou graduado de Ciências da Computação na FPB. Focado em desenvolvimento de software com ênfase em Engenharia de Dados e desenvolvimento Back-End. Busco criar soluções sustentáveis, escaláveis e eficientes.
 
 ---
 
 ## Competências Técnicas
 
-- **Desenvolvimento Back-End:** Python, C#, Django, .NET, arquiteturas MVC e MVT.
-- **Automação com Python:** Rastreadores web (Selenium), Web Scraping, Automação de tarefas, ETL (Extração, Transformação e Carga).
+- **Desenvolvimento Back-End:** Python, C#, Django, Flask, .NET, arquiteturas Modulares.
+- **Automação com Python:** Web Scraping, Automação de tarefas, ETL.
 - **Bancos de Dados:** MySQL, PostgreSQL, MongoDB, NoSQL, modelagem de dados, SQL.
 - **Desenvolvimento de Pipelines de Dados:** Integração de dados, Processamento em lote, Big Data.
 - **Aprendizado de Máquina:** Machine Learning, Modelagem preditiva, Scikit-Learn, TensorFlow, Análise de dados.
-- **Integração de Sistemas:** APIs, Microserviços, Arquitetura de sistemas, DevOps, Automação de processos.
-- **Metodologias Ágeis:** Scrum, Kanban, Lean.
+- **Integração de Sistemas:** APIs, Microserviços, Arquitetura de sistemas, Automação de processos.
+- **Metodologias Ágeis:** Scrum, Kanban.
 
 ---
 
@@ -30,8 +30,7 @@ Sou estudante de Ciências da Computação na FPB-JP, com previsão de conclusã
   <img alt="MySQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img alt="MongoDB" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
   <img alt="PostgreSQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img alt="Django" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
-
+  
 </p>
 
 ---
@@ -66,26 +65,6 @@ Sou estudante de Ciências da Computação na FPB-JP, com previsão de conclusã
  </a>
 </p>
 
-  
-<p align="center">
-  <a href="https://raw.githubusercontent.com/KevinL284/portfolio/main/KevinSouzaCV.pdf">
-    <img src="https://img.shields.io/badge/Currículo-Baixar-56BCDA?style=for-the-badge" alt="Baixar Currículo"/>
-  </a>
-</p>
-
 ---
-
-## Estatísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinL284&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinL284&layout=compact&langs_count=7&theme=react"/>
-</div>
-
----
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=KevinL284&label=Profile%20views&color=56BCDA&style=flat" alt="KevinL284" />
-</p>
 
 
