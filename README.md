@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&color=00FF88&center=true&vCenter=true&width=700&lines=kevin_souza.profile+%3E+init();Data+Engineer+%7C+Back-end+Developer;ETL+%7C+Pipelines+%7C+NLP" />
 </p>
-
+ 
 ---
 
 ## profile
