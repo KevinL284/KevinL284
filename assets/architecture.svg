@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="270" viewBox="0 0 1100 270" role="img" aria-label="Architecture map: backend, data engineering and applied AI feeding business solutions">
+<rect width="1100" height="270" fill="#091a2b"/><g font-family="monospace" text-anchor="middle"><text x="550" y="30" font-size="17" fill="#83b9db">SYSTEM ARCHITECTURE / AREAS OF PRACTICE</text>
+<g fill="#112e46" stroke="#5488aa" stroke-width="1.5"><rect x="65" y="62" width="280" height="68" rx="4"/><rect x="410" y="62" width="280" height="68" rx="4"/><rect x="755" y="62" width="280" height="68" rx="4"/><rect x="255" y="186" width="590" height="58" rx="4"/></g>
+<g fill="#e0f1fd" font-size="21" font-weight="bold"><text x="205" y="90">BACKEND</text><text x="550" y="90">DATA</text><text x="895" y="90">APPLIED AI</text><text x="550" y="221">BUSINESS SOFTWARE &amp; AUTOMATION</text></g>
+<g fill="#a6c6dc" font-size="13"><text x="205" y="114">APIs · Python · C#</text><text x="550" y="114">ETL · SQL · Pipelines</text><text x="895" y="114">NLP · ML · OCR</text></g>
+<g stroke="#6aaacb" stroke-width="2" fill="none"><path d="M205 130V159H550V186"/><path d="M550 130V186"/><path d="M895 130V159H550"/></g></g>
+</svg>
